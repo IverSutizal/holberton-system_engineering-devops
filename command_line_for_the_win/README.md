@@ -1,1 +1,1 @@
-carpeta de archivos
+carpeta de archivos del juego
